@@ -1,7 +1,7 @@
 # 209-cpp-basics-nice1stu
 C++ basic
 
-Exercises completed;
+Exercises completed:\n
 swap values
 Triangle
 print new line
